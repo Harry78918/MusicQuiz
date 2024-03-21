@@ -1,63 +1,112 @@
 [
   {
     "question": "What is the key of this music?",
-    "choices": ["A", "B", "C", "D"],
-    "answer": "A",
-    "music_key": "A#.mp3"
-  },
-  {
-    "question": "What is the key of this music?",
-    "choices": ["E", "F", "G", "A"],
+    "choices": [
+      "C",
+      "A",
+      "B",
+      "G"
+    ],
     "answer": "G",
-    "music_key": "G.mp3"
+    "music_key": "b4.mp3"
   },
   {
     "question": "What is the key of this music?",
-    "choices": ["C#", "D#", "F#", "G#"],
-    "answer": "C#",
-    "music_key": "C#.mp3"
+    "choices": [
+      "G",
+      "B",
+      "F",
+      "C"
+    ],
+    "answer": "G",
+    "music_key": "e4.mp3"
   },
   {
     "question": "What is the key of this music?",
-    "choices": ["B", "C", "D", "E"],
-    "answer": "B",
-    "music_key": "B.mp3"
-  },
-  {
-    "question": "What is the key of this music?",
-    "choices": ["F", "G", "A", "B"],
-    "answer": "F",
-    "music_key": "F.mp3"
-  },
-  {
-    "question": "What is the key of this music?",
-    "choices": ["D", "E", "F#", "G#"],
+    "choices": [
+      "F",
+      "D",
+      "C",
+      "B"
+    ],
     "answer": "D",
-    "music_key": "D.mp3"
+    "music_key": "g-2.mp3"
   },
   {
     "question": "What is the key of this music?",
-    "choices": ["A#", "C", "D#", "F"],
-    "answer": "A#",
-    "music_key": "A#.mp3"
+    "choices": [
+      "D",
+      "C",
+      "A",
+      "F"
+    ],
+    "answer": "C",
+    "music_key": "f-1.mp3"
   },
   {
     "question": "What is the key of this music?",
-    "choices": ["G#", "A#", "C#", "D#"],
-    "answer": "D#",
-    "music_key": "D#.mp3"
+    "choices": [
+      "G",
+      "E",
+      "D",
+      "F"
+    ],
+    "answer": "E",
+    "music_key": "c4.mp3"
   },
   {
     "question": "What is the key of this music?",
-    "choices": ["A", "Bb", "C", "D"],
-    "answer": "Bb",
-    "music_key": "Bb.mp3"
+    "choices": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "D",
+    "music_key": "b-1.mp3"
   },
   {
     "question": "What is the key of this music?",
-    "choices": ["Eb", "F", "G", "Ab"],
-    "answer": "Ab",
-    "music_key": "Ab.mp3"
+    "choices": [
+      "G",
+      "E",
+      "A",
+      "F"
+    ],
+    "answer": "G",
+    "music_key": "F#.mp3"
+  },
+  {
+    "question": "What is the key of this music?",
+    "choices": [
+      "B",
+      "E",
+      "D",
+      "A"
+    ],
+    "answer": "A",
+    "music_key": "g-#2.mp3"
+  },
+  {
+    "question": "What is the key of this music?",
+    "choices": [
+      "C",
+      "B",
+      "G",
+      "D"
+    ],
+    "answer": "G",
+    "music_key": "f#3.mp3"
+  },
+  {
+    "question": "What is the key of this music?",
+    "choices": [
+      "D",
+      "A",
+      "G",
+      "C"
+    ],
+    "answer": "G",
+    "music_key": "e-2.mp3"
   }
 ]
-
